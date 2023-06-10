@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPA god</string>
+    <string name="main_description">GPA GOD ПОМОЖЕТ ТЕБЕ ПОСЧИТАТЬ СРЕДНИЙ БАЛЛ ПО ОЦЕНКАМ</string>
+    <string name="enter_hint">твои оценки (например 433544)</string>
+    <string name="gpa_text">Твой средний балл:</string>
+    <string name="calculate_text">ВЫЧИСЛИТЬ!</string>
+    <string name="error">Введите ваши оценки в последовательности</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPA god</string>
+    <string name="main_description">GPA GOD WILL HELP YOU CALCULATE YOUR GPA</string>
+    <string name="enter_hint">your grades sequence (ex.: 433544)</string>
+    <string name="gpa_text">Your GPA:</string>
+    <string name="calculate_text">CALCULATE!</string>
+    <string name="error">Please enter your grades</string>
+</resources>
